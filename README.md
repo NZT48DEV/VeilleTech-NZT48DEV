@@ -39,10 +39,11 @@ L’objectif est de collecter, organiser et synthétiser les dernières tendance
 
 ## 📂 Organisation du dépôt
 
+- `/actualites/` : notes rapides sur nouveautés et événements récents  
 - `/articles/` : synthèses et résumés d’articles pertinents  
 - `/outils/` : notes sur des outils ou librairies découvertes  
+- `/projets/` : retours d’expérience et veille liés à mes projets publics
 - `/tutoriels/` : liens et exemples de tutoriels à approfondir  
-- `/actualites/` : notes rapides sur nouveautés et événements récents  
 - `README.md` : présentation générale du projet
 
 ---
